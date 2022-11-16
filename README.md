@@ -5,6 +5,6 @@ My solution to the problem is this Power Distribution Unit where I have a single
 
 ## Links for the additional items you will need
 →Enclosure used in the project
-https://voltlog.com/y/rpw6u
+https://voltlog.com/y/rpw6u<br />
 →DC barrel jack extension leads
 Aliexpress https://voltlog.com/y/x1zli
